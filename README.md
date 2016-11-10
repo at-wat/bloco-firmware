@@ -1,5 +1,7 @@
 # bloco-firmware
-Spun out project from at-wat/yp-spur
+B-Loco motor controller board firmware for YP-Spur. (B-Loco has been almost obsolete.)
+
+This project was split from YP-Spur.
 
 ## build
 ```
